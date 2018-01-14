@@ -13,6 +13,7 @@ Test application (DvlaTest Project) - selenium/cucumber framework
  Use the Runner clase and Run as Junit Test 
  
  Test verified is Make/Color. Tests available in the Step defination class
+ Note : I used the excel file to read the file.
 
 Output file
 This is in the DvlaTest folder
