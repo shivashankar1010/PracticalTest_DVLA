@@ -16,4 +16,4 @@ Test application (DvlaTest Project) - selenium/cucumber framework
  Note : I used the excel file to read the file.
 
 Output file
-This is in the DvlaTest folder
+Using the selenium TakesScreenshot class we can get the screenshot of the pages.
